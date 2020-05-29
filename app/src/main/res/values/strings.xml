@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">OswaldoCunalata-examen</string>
+
+    <string name="Usuario">Usuario</string>
+    <string name="Password">Password</string>
+    <string name="Imagen"></string>
+    <string name="BtnGuardar">Ingresar</string>
+
+    <string name="tvNombre">Nombre</string>
+    <string name="tvMonto">Monto Inicial</string>
+    <string name="tvPagoMensual">Pago Mensual</string>
+    <string name="BtnCalcular">Calcular</string>
+    <string name="BtnGuardar2">Guardar Registro</string>
+
+    <string name="Titulo">Encuesta</string>
+    <string name="Pregunta1">1.-¿Recomendaria este centro?</string>
+    <string name="Si">Si</string>
+    <string name="No">No</string>
+    <string name="Pregunta2">2.- ¿Qué deportes practica?</string>
+    <string name="Fut">Futbol</string>
+    <string name="Basque">Basquetbol</string>
+    <string name="Teni">Teniss</string>
+    <string name="Pregunta3">Está interesado en aprender otro idioma aparte de inglés.</string>
+    <string name="Si1">Si</string>
+    <string name="No1">No</string>
+    <string name="Guardar3">Guardar </string>
+
+    <string name="TituloResumen">Resumen</string>
+    <string name="NombreRes">Nombre </string>
+    <string name="DatoNom"></string>
+    <string name="PagoMensual">Pago Mensual </string>
+    <string name="DatoPago"></string>
+    <string name="PreguntaRes">1.-¿Recomendaria este centro?</string>
+    <string name="Respue1"></string>
+    <string name="PreguntaRes2">2.- ¿Qué deportes practica?</string>
+    <string name="Respue2"></string>
+    <string name="PreguntaRes3">Está interesado en aprender otro idioma aparte de inglés.</string>
+    <string name="Respue3"></string>
 </resources>
